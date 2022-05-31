@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img width="29" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif">, I'm Saksham</h1>
 <h3 align="center">Aspiring Engineer [ CS101 ]</h3>
-<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
+<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 
 - 🔭 I’m currently working on **MERN STACK**
 
