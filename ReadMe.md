@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [saksham-1612.github.io](saksham-1612.github.io)
 
-- 📝 I regularly write articles on [https://medium.com/@saksham1612](https://medium.com/@saksham1612)
-
 - 💬 Ask me about **anything related to CS**
 
 - 📫 How to reach me **saksham16dec@gmail.com**
